@@ -11,11 +11,11 @@ export default function Home() {
       <section className={utilStyles.headingMd}>
         <h3>About</h3>
         <p>
-          Hi, my name is Luan Faria, 28 years old and I lives in Brazil.
+          Hi 👋, my name is Luan Faria, 28 years old and I lives in Brazil.
         </p>
 
         <p>  
-          I am computer systems analyst student and working as full-stack developer developer since 2018.
+          I am computer systems analyst student and working as a full-stack developer since 2018.
         </p>
 
         <p>

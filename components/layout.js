@@ -8,8 +8,8 @@ import styles from './layout.module.scss'
 import utilStyles from '../styles/utils.module.scss'
 
 const name = 'Luan Faria'
-const role = 'Full-Stack Developer'
-export const siteTitle = 'Luan Faria - Full-Stack Developer'
+const role = 'Software Engineer'
+export const siteTitle = 'Luan Faria - Software Engineer'
 
 export default function Layout({ children, home }) {
   return (
