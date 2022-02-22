@@ -15,11 +15,11 @@ export default function Home() {
         </p>
 
         <p>  
-          I am computer systems analyst studant and working as full-stack developer developer since 2018.
+          I am computer systems analyst student and working as full-stack developer developer since 2018.
         </p>
 
         <p>
-          As Full-Stack developer I have experience in React, Typescript, Redux, Hooks, React Native CLI and Expo. Also studying Node, Unit and Integration tests with Jest, Testing Library and Cypress.
+          As Full-Stack developer I have experience in React, Typescript, Redux, Hooks, React Native CLI, Expo, Node and Express. Also studying Unit and Integration tests with Jest, Testing Library and Cypress.
         </p>
       </section>
     </Layout>
